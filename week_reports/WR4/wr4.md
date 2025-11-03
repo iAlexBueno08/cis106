@@ -22,6 +22,5 @@
 
 ## References
 
-* [Notes 4](../notes/notes4.md)
-* [Lab 4](../scripts)
+* [Notes 4](/notes/Notes4.md)
 
