@@ -10,7 +10,7 @@
 7. Set the administrator password and network settings.  
 8. Complete the installation and reboot.  
 9. Access the web interface:  
-   **https://YOUR-SERVER-IP:8006(proxmox default port)**
+   **https://YOUR-SERVER-IP:8006 (proxmox default port)**
 
 ---
 
