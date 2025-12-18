@@ -11,7 +11,7 @@
 8. Complete the installation and reboot.  
 9. Access the web interface:  
    **https://YOUR-SERVER-IP:8006 (proxmox default port)**
-
+![img](PM.png)
 ---
 
 ## How to create a Debian container
@@ -25,6 +25,7 @@
 6. Choose disk size, CPU cores, and RAM.  
 7. Set the network to **DHCP** (or static).  
 8. Finish and start the container.
+9. ![img](Container.png)
 
 ---
 
@@ -34,4 +35,4 @@ Run the following commands inside the Debian container:
 ```sh
 apt update
 apt install mariadb-server -y
-
+```
